@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning and building cool stuff<br>
+Currently learning and building cool stuff🚀<br>
 
 
 ## 🌐 Socials:
