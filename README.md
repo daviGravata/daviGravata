@@ -11,7 +11,7 @@
 I'm a software development student currently focused on:
 
 - 🧠 **C# / .NET**
-- 🛢️ **PostgreSQL / MySQL**
+- 🛢️ **PostgreSQL 
 - 🕵️‍♂️ **Cybersecurity** (pentesting, traffic analysis, offensive security)
 - 💡 **Systems modeling & architecture**
 
@@ -25,8 +25,7 @@ I'm a software development student currently focused on:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+ 
 
 ---
 
