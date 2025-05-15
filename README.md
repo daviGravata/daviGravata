@@ -15,7 +15,6 @@ I'm a software development student currently focused on:
 - 🕵️‍♂️ **Cybersecurity** (pentesting, traffic analysis, offensive security)
 - 💡 **Systems modeling & architecture**
 
-I enjoy building things from scratch, scripting in the terminal, and breaking stuff to learn how to fix it better.
 
 ---
 
@@ -38,5 +37,4 @@ I enjoy building things from scratch, scripting in the terminal, and breaking st
 ---
 
 > “Learning never exhausts the mind, but it burns a lot of coffee.” ☕  
-> — Me, probably while debugging at 2 AM
 
