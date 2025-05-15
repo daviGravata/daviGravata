@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently studing<br>
+Currently learning and building cool stuff<br>
 
 
 ## 🌐 Socials:
