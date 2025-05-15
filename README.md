@@ -1,27 +1,42 @@
-# 💫 About Me:
-Currently learning and building cool stuff🚀<br>
+<h1 align="center">Hi there 👋, I'm Davi Gravata</h1>
 
+<p align="center">
+  💻 Software Development Student • 🛡️ Cybersecurity Enthusiast • ⚙️ Terminal Fanatic
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davi-gravatá-3b708223b/) 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 About Me
 
+I'm a software development student currently focused on:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🧠 **C# / .NET**
+- 🛢️ **PostgreSQL / MySQL**
+- 🕵️‍♂️ **Cybersecurity** (pentesting, traffic analysis, offensive security)
+- 💡 **Systems modeling & architecture**
 
-<!--
-**daviGravata/daviGravata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things from scratch, scripting in the terminal, and breaking stuff to learn how to fix it better.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-aqui)
+
+---
+
+> “Learning never exhausts the mind, but it burns a lot of coffee.” ☕  
+> — Me, probably while debugging at 2 AM
+
