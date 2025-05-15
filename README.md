@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Davi Gravata</h1>
+<h1 align="center">Hi there 👋, I'm Davi Gravatá</h1>
 
 <p align="center">
   💻 Software Development Student • 🛡️ Cybersecurity Enthusiast • 
