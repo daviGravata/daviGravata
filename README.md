@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Davi Gravata</h1>
 
 <p align="center">
-  💻 Software Development Student • 🛡️ Cybersecurity Enthusiast • ⚙️ Terminal Fanatic
+  💻 Software Development Student • 🛡️ Cybersecurity Enthusiast • 
 </p>
 
 ---
